@@ -1,4 +1,4 @@
-package com.example.poseidon;
+package hu.pemik.poseidon;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

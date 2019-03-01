@@ -1,4 +1,4 @@
-package com.example.poseidon;
+package hu.pemik.poseidon;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
